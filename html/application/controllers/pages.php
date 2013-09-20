@@ -31,7 +31,7 @@ class Pages extends CI_Controller {
 				break;
 
 			case 'leads':
-				$data['page-title'] = 'Лидогенерация';
+				$data['page_title'] = 'Лидогенерация';
 				break;
 
 			case 'sites':
