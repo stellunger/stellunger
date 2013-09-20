@@ -16,7 +16,8 @@ class Pages extends CI_Controller {
 	{
 		// составляем заголовок
 
-		switch ($page_name) {
+		switch ($page_name)
+		{
 			case 'calls':
 				$data['page_title'] = 'Продвижение с оплатой за звонки';
 				break;
