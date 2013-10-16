@@ -42,7 +42,8 @@
                         </ul>
                     </li>
                     <li><a href="<?php echo base_url(); ?>sites" class="scroller">Сайт бесплатно</a></li>
-                    <li><a href="<?php echo base_url(); ?>why" class="scroller">Наши преимущества</a></li>
+                    <li><a href="<?php echo base_url(); ?>why" class="scroller">Почему мы?</a></li>
+                    <li><a href="<?php echo base_url(); ?>portfolio" class="scroller">Портфолио</a></li>
                     <li><a href="<?php echo base_url(); ?>faq" class="scroller">База знаний</a></li>
                     <li><a href="<?php echo base_url(); ?>contacts" class="scroller">Контакты</a></li>
                 </ul>

@@ -46,6 +46,10 @@ class Pages extends CI_Controller {
 				$data['page_title'] = 'Продвижение с оплатой за трафик';
 				break;
 
+			case 'portfolio':
+				$data['page_title'] = 'Наши последние работы';
+				break;
+
 			case 'why':
 				$data['page_title'] = 'Наши преимущества';
 				break;
