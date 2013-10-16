@@ -66,11 +66,11 @@
                 </div>-->
                 <div class="span5 offset1">
                     <div class="address">
-                        <h3>Адрес</h3>
-                        <p>
+                        <h3></h3>
+                        <!--<p>
                             г. Екатеринбург,<br>
                             ул. Бажова, 75А - офис 306
-                        </p>
+                        </p>-->
                         <div class="info">
                             <i class="contact phone"></i>
                             8 800 555 39 84
@@ -81,7 +81,7 @@
                         </div>
                         <div class="info">
                             <i class="contact email"></i>
-                            info@stellunger.ru
+                            sales@stellunger.ru
                         </div>
                         <hr>                        
                     </div>
